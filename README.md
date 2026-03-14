@@ -1,4 +1,4 @@
-# Step 1: Collect Data X = features (inputs) y = target (continuous value you want to predict) Example: car_price_prediction_with_missing
+Step 1: Collect Data X = features (inputs) y = target (continuous value you want to predict) Example:car_price_prediction_with_missing
 
 Step 2: Split Data Divided data into: Training set (to train the model) testing set (to check performance)
 
